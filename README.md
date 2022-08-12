@@ -47,13 +47,13 @@ IMPORTANTE: Assim como no Back-end, a variável de ambiente GITHUB_USER deverá 
 * Configure as variáveis de ambiente do app para apontar para as API's publicadas;
 * Faça o deploy com o git.
 * Para publicar seu front-end React, utilize o buildpack mars/create-react-app.
-#### comandos feitos no 7
-heroku buildpacks:set mars/create-react-app
-git remote -v // verificar o remote adicionado
-heroku stack // verificar o stack disponível
-heroku stack:set heroku-20 //mudar pro heroku-20
-git add .
-git commit -m 'deploy front-end'
-git push heroku dev-juliana-oliveira-stranger-things-frontend:master
+#### Comandos feitos no requisito 7
+heroku buildpacks:set mars/create-react-app<br>
+git remote -v // verificar o remote adicionado<br>
+heroku stack // verificar o stack disponível<br>
+heroku stack:set heroku-20 //mudar pro heroku-20<br>
+git add .<br>
+git commit -m 'deploy front-end'<br>
+git push heroku dev-juliana-oliveira-stranger-things-frontend:master<br>
 
 
