@@ -7,7 +7,7 @@ Esse projeto contém uma série de informações sobre o que eu aprendi aqui na 
 ## :rocket:Começando
 Esse projeto foi proposto pelo curso de desenvolvimento web da Trybe.
 ### Desenvolvimento
-Foi feito deploy d eum porjeto front-end com o Heroku, utilizando Docker em ambiente de produção.Para isso, tive que alterar alguns comportamentos aplicando conceitos vistos no conteúdo do bloco.
+Foi feito deploy de um projeto front-end com o Heroku, utilizando Docker em ambiente de produção.Para isso, tive que alterar alguns comportamentos aplicando conceitos vistos no conteúdo do bloco.
 ### Commits
 Os commits foram feitos de acordo com os requisitos finalizados.
 ### Branch
